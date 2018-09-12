@@ -1,0 +1,14 @@
+GET http://api.ica.se/api/stores/search?Filters&Phrase=nyk%C3%B6ping
+Content-Type: application/json
+
+// #https://github.com/svendahlstrand/ica-api/blob/master/api-referens.md
+
+###
+
+GET http://api.ica.se/api/offers?Stores=9718
+
+
+
+### 
+
+GET http://api.ica.se/api/stores/?LastSyncDate=2014-12-01

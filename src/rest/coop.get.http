@@ -1,0 +1,1 @@
+GET https://www.coop.se/api/ecommerce/product/search?query=ost&pageSize=25&page=0
